@@ -3,5 +3,4 @@
 
 <p align="center"> 
                <img src="https://profile-counter.glitch.me/cl-lw/count.svg" />    
-</p 
-! [Deponuzun İstatistikleri] ( https://github-readme-stats.vercel.app/api? username = Your_GitHub_Username & show_icons = true)
+( https://github-readme-stats.vercel.app/api? cl-lw cl-lw & show_icons = true)
