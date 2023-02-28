@@ -3,4 +3,5 @@
 
 <p align="center"> 
                <img src="https://profile-counter.glitch.me/cl-lw/count.svg" />    
-( https://github-readme-stats.vercel.app/api? cl-lw cl-lw & show_icons = true)
+
+<p> 
