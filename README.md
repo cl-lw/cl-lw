@@ -9,7 +9,8 @@
 
     
 </p>
-
+    
+![contributions](https://user-images.githubusercontent.com/68690911/222978952-510af97e-5ddd-429c-9cf7-dfd186b02bc4.svg)
 <p align="center"> 
                <img src="https://profile-counter.glitch.me/cl-lw/count.svg" />    
 
